@@ -1,0 +1,1 @@
+Simple jquery method that let you remove a class with a regular expression.

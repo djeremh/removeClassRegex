@@ -1,0 +1,30 @@
+{
+  "name": "remove-class-regex",
+  "version": "1.0.0",
+  "description": "Simple jquery method that let you remove a class with a regular expression.",
+  "dependencies": {
+    "jquery": "~2.1.3",
+  },
+  "keywords": [
+    "jquery",
+    "plugin",
+    "regex",
+    "class"
+  ],
+  "authors": [
+    {
+      "name": "Jeremy Moresmau"
+    }
+  ],
+  "license": "MIT",
+  "ignore": [],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jackmoore/autosize.git"
+  },
+  "main": "removeClassRegex.js",
+  "moduleType": [
+    "amd",
+    "node"
+  ]
+}
